@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\bin\Debug\PRIME1 - Prime Generator.exe.config
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\bin\Debug\PRIME1 - Prime Generator.exe
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\bin\Debug\PRIME1 - Prime Generator.pdb
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\obj\Debug\PRIME1 - Prime Generator.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\obj\Debug\PRIME1 - Prime Generator.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\obj\Debug\PRIME1 - Prime Generator.exe
+D:\Users\fidalskik\source\repos\PRIME1 - Prime Generator\PRIME1 - Prime Generator\obj\Debug\PRIME1 - Prime Generator.pdb
